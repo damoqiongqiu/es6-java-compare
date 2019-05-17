@@ -1,10 +1,12 @@
 # 《对照 Java 学通 ES6（含 ES7/ES8）》
 
-这是Java部分用来对比的代码。
+这是 Java 部分用来对比的代码。
+
+对应的 ES6 项目代码在这里：https://gitee.com/mumu-osc/es6-webpack-quickstart
 
 ## 用法
 
-用IDEA导入此项目即可。
+用 IDEA 导入此项目即可。
 
 ## Licence
 
